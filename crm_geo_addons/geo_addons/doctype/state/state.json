@@ -1,5 +1,6 @@
 {
  "actions": [],
+ "allow_import": 1,
  "allow_rename": 1,
  "autoname": "field:state_name",
  "creation": "2025-07-16 12:46:09.472693",
@@ -27,7 +28,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-07-16 14:24:05.077678",
+ "modified": "2025-07-17 08:45:59.980206",
  "modified_by": "Administrator",
  "module": "Geo Addons",
  "name": "State",
